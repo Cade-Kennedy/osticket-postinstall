@@ -52,7 +52,16 @@ In this step we are going to configure Roles, along with the users in each Role.
 <img src="https://i.imgur.com/vJNpIZf.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we can begin creating the SLA agreements for different categories of tickets. SLA meaning Service Level Agreement, are different tiers of ticket escalation based on severity. With these different tiers you can change how long after a ticket is created until it needs to be assigned or claimed. You can also manage the days / times of the week that these ticktes will be activated. IE: severe level tickets might be active 7 days a week even outside of standard business hours. 
+Here we can begin creating the SLA agreements for different categories of tickets. An SLA (Service Level Agreement) is a contract between a service provider and a customer that outlines the specific level of service expected. 
+
+ <ins>**Key Components of an SLA Agreement:**</ins>   
+Service Scope – Details the services being provided.
+
+Performance Metrics – Defines measurable performance indicators (e.g., response time, uptime).
+
+Response & Resolution Times – Specifies how quickly issues will be addressed and resolved.
+
+Roles & Responsibilities – Clarifies duties for both the service provider and the customer.
 </p>
 <br />
 
